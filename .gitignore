@@ -3,3 +3,5 @@ node_modules
 dist
 docker
 yarn.lock
+.env.development
+.env.production
